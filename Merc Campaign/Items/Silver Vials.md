@@ -1,0 +1,3 @@
+Strange vials of a thick silver liquid. They have a psychedelic effect when consumed. [[Jerome Vinger]] was spiking mead with this liquid in order to distribute it discretely for the [[Zhentarim]]. The Zhentarim appear to be the main suppliers of the substance, and are likely to be distributing it far past the reach of [[Feux Volant Meadery]].
+
+After an encounter in the Underdark, the party realized that the silver substance may be the blood of mind flayers.
