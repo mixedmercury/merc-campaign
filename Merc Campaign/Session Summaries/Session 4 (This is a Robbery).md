@@ -1,6 +1,6 @@
 [[Session 3 (Festival)]]
 
-Everyone wakes up in [[Secomber]], some more hungover than others. Walks decides to go to the local magic item shop to try to find some equipment. They go in to find that the owner is none other than the [[Elf Woman]] that she tried to pickpocket not once, but twice. The shopkeeper, unable to prove Walks' guilt, instead asks exorbitant prices to get them to leave. Walks tells Vahn about this and asks them to go in their stead to buy what they needed.
+Everyone wakes up in [[Secomber]], some more hungover than others. Walks decides to go to the local magic item shop to try to find some equipment. They go in to find that the owner is none other than the [[Elf Woman]] that they tried to pickpocket not once, but twice. The shopkeeper, unable to prove Walks' guilt, instead asks exorbitant prices to get them to leave. Walks tells Vahn about this and asks them to go in their stead to buy what they needed.
 
 Vahn makes a very different choice.
 
