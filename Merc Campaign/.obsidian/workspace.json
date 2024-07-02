@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62e956bb8941a978",
+            "id": "d74074e4e45e18d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Silverymoon/Silverymoon.md",
+                "file": "Session Summaries/Act 2/Session 28 - Scalebeard's Treasure 07-01-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 387.5
   },
   "right": {
     "id": "c843fdc925472ae1",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Silverymoon/Silverymoon.md",
+                "file": "Session Summaries/Act 2/Session 28 - Scalebeard's Treasure 07-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Silverymoon/Silverymoon.md",
+                "file": "Session Summaries/Act 2/Session 28 - Scalebeard's Treasure 07-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Silverymoon/Silverymoon.md"
+                "file": "Session Summaries/Act 2/Session 28 - Scalebeard's Treasure 07-01-2024.md"
               }
             }
           },
@@ -158,12 +158,37 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "62e956bb8941a978",
+  "active": "d74074e4e45e18d9",
   "lastOpenFiles": [
-    "Characters/Allies/Rurem.md",
-    "Characters/Allies/Imra.md",
-    "Characters/Allies/Knak.md",
-    "Characters/Allies/Harpers/Quinn Redhelm.md",
-    "Characters/Allies/Harpers/Harpers.md"
+    "Session Summaries/Act 2/Session 27 - The Vampirates 06-08-2024.md",
+    "Session Summaries/Act 2/Session 26 - Sarhala 05-20-2024.md",
+    "Session Summaries/Act 2/Session 25 - Mintarn 04-20-2024.md",
+    "Locations/Mintarn/Mintarn.md",
+    "Session Summaries/Act 2/Session 24 - Gone Fishin' 04-06-2024.md",
+    "Session Summaries/Act 2/Session 23 - The Scalebeard Pirates 03-30-2024.md",
+    "Session Summaries/Act 2/Session 22 - Bounty Hunters 02-24-2024.md",
+    "Session Summaries/Act 2/Session 21 - Egg 02-10-2024.md",
+    "Session Summaries/Act 2/Session 28 - Scalebeard's Treasure 07-01-2024.md",
+    "Session Summaries/Act 2/Session 20 - The Heist 01-27-2024.md",
+    "Session Summaries/Act 2/Session 19 - The Auction 01-13-2024.md",
+    "Session Summaries/Act 2/Session 18 - Sundabar 12-30-2023.md",
+    "Session Summaries/Act 1/Session 14 - Framed 10-21-2023.md",
+    "Session Summaries/Act 1/Session 13 - Skullport 09-30-2023.md",
+    "Session Summaries/Act 1/Session 4 - Scarecrows 07-15-2023.md",
+    "Session Summaries/Act 1/Session 10 - Waterdeep 08-26-2023.md",
+    "Session Summaries/Act 1/Session 6 - The Night Hag 07-29-2023.md",
+    "Locations/Secomber/Haldfeather Keep.md",
+    "Session Summaries/Act 1/Session 11 - Bed Beholders & Beyond 09-02-2023.md",
+    "Session Summaries/Act 1/Session 8 - Plague Inc. 08-12-2023.md",
+    "Session Summaries/Act 2/Session 17 - The Harpers 12-16-2023.md",
+    "Session Summaries/Act 2/Session 16 - Silverymoon 12-02-2023.md",
+    "Session Summaries/Act 1/Session 15 - Escape from Waterdeep 11-18-2024.md",
+    "Session Summaries/Act 2",
+    "Session Summaries/Act 1",
+    "Session Summaries/Act 1/Session 12 - Rat Bath 09-09-2023.md",
+    "Session Summaries/Act 1/Session 9 - Robbery 08-19-2023.md",
+    "Session Summaries/Act 1/Session 7 - Mr. Bitey 08-05-2023.md",
+    "Locations/Maps/Hag Base.png",
+    "Locations/Maps/Meadery Basement.png"
   ]
 }
