@@ -1,6 +1,5 @@
 Known base in [[Silverymoon]], operations are spread across Faerun.
 
-- Quinn Redhelm - Alive - Half-Elf, Horizon Walker Ranger, southern accent - Niece of Lord Redhelm of Waterdeep. Searching for her cousin Darian who is involved in the cult of Cyric.
 - (???) - Alive - ??? - Magic user undercover in Waterdeep for the Harpers. Assisted in the party's escape from prison, cast Zone of Truth on them. Clearly quieter and more serious about his duties than the Harpers of the Silverymoon base.
 
 - Silverymoon Base
