@@ -16,4 +16,6 @@ Searching through the grounds, they find a [[Dagger of Venom]], a bee statuette,
 
 In the basement there are countless barrels of mead along with two goblins. One is freaking the FUCK out, saying things like "the walls are melting". The party finds the barrel he drank from is marked with a chevron that the others are not. While investigating, the players also find a larger bee statue that very closely matches the smaller one from the office. It appears to be missing its stinger. When the players insert the dagger of venom into the statue, a secret panel in the wall slides open.
 
+The party is now level 3.
+
 [[Session 3 - Festival 06-24-2023]]

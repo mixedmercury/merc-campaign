@@ -14,4 +14,6 @@ The party stops in a town called Greenbourne to rest, only to find its inhabitan
 
 In the town, the party encounters Quinn Redhelm as well. She presents herself as a guard of the Lord's Alliance. Quinn says the meadery seems to have been up to some shady business lately, but she doesn't have enough evidence to act. She would investigate it herself, but they'd get rid of any evidence if they saw her coming. Quinn asks the players to retrieve their business ledger for her.
 
+The party is now Level 2.
+
 [[Session 2 - Meadery 06-17-2023]]
