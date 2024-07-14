@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Allies/Scalebeard Pirates/Scalebeard Salk.md",
+                "file": "Characters/Players/Vahn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69dd96f8bbde7d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Allies/Scalebeard Pirates/Scalebeard Salk.md",
+                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Allies/Scalebeard Pirates/Scalebeard Salk.md",
+                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Allies/Scalebeard Pirates/Scalebeard Salk.md"
+                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md"
               }
             }
           },
@@ -171,38 +184,47 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d74074e4e45e18d9",
+  "active": "69dd96f8bbde7d82",
   "lastOpenFiles": [
-    "Characters/Allies/Scalebeard Pirates/Scalebeard Pirates.md",
+    "Items/Utility/Wand of Magic Detection.md",
+    "Items/Images/Pasted image 20240714065214.png",
+    "Items/Weapons/Wand of Magic Missiles.md",
+    "Characters/Players/Terra.md",
+    "Characters/Players/Vahn.md",
+    "Characters/Players/Rhys.md",
+    "Characters/Players/Skoddit.md",
+    "Characters/Players/Ver-Ik.md",
+    "Items/Images/Pasted image 20240714065035.png",
+    "Items/Images/Pasted image 20240714064929.png",
+    "Items/Images/Pasted image 20240714064544.png",
+    "Items/Weapons/Mace of Terror.md",
+    "Items/Weapons/Branch of the Forest.md",
+    "Items/Weapons/Dagger of Venom.md",
+    "Items/Weapons/Oathbow.md",
+    "Items/Weapons/Tempest Pistol.md",
+    "Items/Utility/Boots of Elvenkind.md",
+    "Items/Images/Pasted image 20240714064441.png",
+    "Items/Utility/Ring of Feather Falling.md",
+    "Items/Weapons/Wand of Fireballs.md",
+    "Items/Weapons/Longsword of Minor Flame Tongue.md",
+    "Items/Silver Vials.md",
+    "Items/Images/Pasted image 20240714063716.png",
+    "Items/Images/IMG_1291.jpg",
+    "Items/Images/Pasted image 20240714062032.png",
+    "Items/Images/Pasted image 20240714061919.png",
+    "Items/Images/Tempest Pistol.png",
+    "Items/Utility",
+    "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
+    "Session Summaries/Act 2/Session 26 - The Vampirates 06-08-2024.md",
+    "Items/Weapons",
     "Characters/Allies/Scalebeard Pirates/Scalebeard Salk.md",
+    "Characters/Allies/Scalebeard Pirates/Scalebeard Pirates.md",
     "Characters/Allies/Harpers/Quinn Redhelm.md",
     "Characters/Allies/Harpers/Harpers.md",
     "Session Summaries/Act 1/Session 15 - Escape from Waterdeep 11-18-2024.md",
     "Characters/Others/Untitled.md",
-    "Session Summaries/Act 2/Session 20 - The Heist 01-27-2024.md",
-    "Session Summaries/Act 2/Session 21 - Egg 02-10-2024.md",
-    "Session Summaries/Act 2/Session 17 - The Harpers 12-16-2023.md",
-    "Session Summaries/Act 2/Session 16 - Silverymoon 12-02-2023.md",
-    "Session Summaries/Act 1/Session 8 - Plague Inc. 08-12-2023.md",
-    "Session Summaries/Act 1/Session 2 - Meadery 06-17-2023.md",
-    "Session Summaries/Act 1/Session 3 - Festival 06-24-2023.md",
-    "Session Summaries/Act 1/Session 1 - Secomber 06-10-2023.md",
-    "Characters/Allies/Rurem.md",
-    "Characters/Enemies/Avaris the Hag.md",
-    "Characters/Enemies/Elf Woman.md",
-    "Characters/Enemies/Rauthik.md",
-    "Characters/Allies/Knak.md",
-    "Characters/Allies/Imra.md",
-    "Characters/Players/Untitled 1.md",
-    "Characters/Players/Ebon No-Horns.md",
-    "Characters/Players/Walks Under Bright Moons.md",
-    "Session Summaries/Act 1/Session 5 - Rurem and Knak 07-22-2023.md",
     "Characters/Players",
-    "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
-    "Session Summaries/Act 2/Session 26 - Sarhala 05-20-2024.md",
     "Session Summaries/Act 2",
-    "Session Summaries/Act 1",
-    "Locations/Maps/Hag Base.png",
-    "Locations/Maps/Meadery Basement.png"
+    "Session Summaries/Act 1"
   ]
 }

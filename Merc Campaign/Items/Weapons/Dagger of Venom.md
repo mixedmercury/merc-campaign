@@ -1,7 +1,9 @@
 Rare Dagger
-Damage: 1d4 Piercing
-Finesse, Light, Range, Thrown 
+Damage: 1d4 
+Damage Type: Piercing
+Properties: Finesse, Light, Range, Thrown 
 Range: 20/60
+Weight: 3
 
 You gain a +1 bonus to attack and damage rolls made with this magic weapon.
 
