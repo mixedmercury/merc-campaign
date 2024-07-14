@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Weapons/Tempest Pistol.md",
+                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Items/Weapons/Tempest Pistol.md",
+                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Items/Weapons/Tempest Pistol.md",
+                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Items/Weapons/Tempest Pistol.md"
+                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md"
               }
             }
           },
@@ -186,32 +186,33 @@
   },
   "active": "69dd96f8bbde7d82",
   "lastOpenFiles": [
-    "Items/Weapons/Wand of Fireballs.md",
-    "Characters/Players/Ver-Ik.md",
-    "Characters/Players/Vahn.md",
-    "Characters/Players/Yew.md",
-    "Characters/Players/Walks Under Bright Moons.md",
-    "Items/Utility/Wand of Magic Detection.md",
-    "Items/Weapons/To and Fro.md",
-    "Characters/Players/Terra.md",
-    "Characters/Players/Ebon No-Horns.md",
-    "Characters/Players/Skoddit.md",
-    "Characters/Players/Rhys.md",
+    "Items/Images/Pasted image 20240714072143.png",
     "Items/Weapons/Branch of the Forest.md",
     "Items/Weapons/Dagger of Venom.md",
     "Items/Weapons/Longsword of Minor Flame Tongue.md",
     "Items/Weapons/Mace of Terror.md",
     "Items/Weapons/Oathbow.md",
-    "Items/Weapons/Wand of Magic Missiles.md",
     "Items/Weapons/Tempest Pistol.md",
+    "Items/Weapons/To and Fro.md",
+    "Items/Weapons/Wand of Fireballs.md",
+    "Items/Weapons/Wand of Magic Missiles.md",
+    "Characters/Players/Walks Under Bright Moons.md",
+    "Items/Utility/Immovable Rod.md",
+    "Items/Consumables",
+    "Characters/Players/Vahn.md",
+    "Characters/Players/Yew.md",
+    "Characters/Players/Skoddit.md",
+    "Characters/Players/Terra.md",
+    "Characters/Players/Ebon No-Horns.md",
+    "Characters/Players/Rhys.md",
+    "Characters/Players/Ver-Ik.md",
+    "Items/Utility/Wand of Magic Detection.md",
     "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
     "Session Summaries/Act 2/Session 20 - The Heist 01-27-2024.md",
     "Session Summaries/Act 2/Session 21 - Egg 02-10-2024.md",
     "Session Summaries/Act 2/Session 17 - The Harpers 12-16-2023.md",
     "Session Summaries/Act 1/Session 6 - The Night Hag 07-29-2023.md",
     "Session Summaries/Act 1/Session 7 - Mr. Bitey 08-05-2023.md",
-    "Session Summaries/Act 1/Session 5 - Rurem and Knak 07-22-2023.md",
-    "Session Summaries/Act 1/Session 8 - Plague Inc. 08-12-2023.md",
     "Items/Images/Pasted image 20240714065214.png",
     "Items/Images/Pasted image 20240714065035.png",
     "Items/Images/Pasted image 20240714064929.png",
@@ -221,7 +222,6 @@
     "Items/Images/IMG_1291.jpg",
     "Items/Images/Pasted image 20240714062032.png",
     "Items/Images/Pasted image 20240714061919.png",
-    "Items/Images/Tempest Pistol.png",
     "Items/Utility",
     "Items/Weapons",
     "Characters/Players",
