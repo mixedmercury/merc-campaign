@@ -3,5 +3,9 @@
 Inventory
 [[Boots of Elvenkind]]
 [[Robe of Useful Things]]
-[[Tempest Pistol]]
+[[Typhoon Pistol]]
 [[To and Fro]]
+[[Immovable Rod]]
+[[Wand of Magic Detection]]
+[[Bag of Beans]]
+[[Portable Fortress]]

@@ -2,5 +2,7 @@
 
 Inventory
 [[Oathbow]]
-[[Longsword of Minor Flame Tongue]]
 [[Ring of Feather Falling]]
+[[Dagger of Venom]]
+Heavy Crossbow +1
+[[Glamoured Studded Leather Armor]]
