@@ -18,3 +18,5 @@ Imra also seems to have some sort of a relationship with the copper dragon [[Rur
 She is allied with the Harpers and has been housing the party in her safe room while they stayed in Silverymoon.
 
 Upon hearing the party was going towards the Mere of Dead Men, she requested they stop at a nearby settlement to collect some things for her. While the party is doing this, she has been entrusted with the care of Ebon's egg, claiming to know about caring for kobolds.
+
+Real name Androm
