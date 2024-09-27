@@ -1,0 +1,8 @@
+[[Session 10 - Waterdeep 08-26-2023]]
+
+Ver-Ik hears the hooded figures speak over him, seeming to recognize him from somewhere. He wild shapes into a giant spider before attempting to flee. He is pursued by another figure with a menacing aura. The kobold slips into a shop nearby, asking to hide inside. The shopkeeper is terrified when he realizes that he is being pursued by the Cult of Cyric and refuses. Ver-Ik convinces him however, but he still is trapped in the area as other cultists patrol to look for him. He escapes into the sewers, where more cultists are searching. Ver-Ik transforms into a rat and swims through the sewage with an almost natural grace, evading the notice of his pursuers. He stays hidden for a while before heading to where he agreed to meet up with the rest of the party, still as a rat.
+
+Back at the hotel on the previous day, Walks and Vahn plan for what they are going to do with the Mountain Sound Mining Company banquet downstairs. Vahn dresses up in his fine clothes and uses Walks' family crest to gain entry. He looks around to see who is in attendance and finds that Walks' eldest brother Inheritor of True Fortune (or Fort) and their mother Leaves from the Vine (Vine) were present, but not their father. 
+
+Knowing this now, Walks went down to the hall and requested their mother speak with them in their room. Vahn then magically commands Fort to vomit and Walks stabs Vahn so they can send a ghost to attack him. With Fort embarrassing himself in front of all the shareholders, they slip out. Vine then meets with Walks, gifting them with a large sum of gold and the [[Robe of Useful Things]] after their first talk since Walks ran away.
+

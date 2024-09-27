@@ -10,4 +10,4 @@ The party makes it back to [[Secomber]] with the mead, haggling the price with C
 
 Vahn and Ver-Ik investigate the cause of Vahn's condition, their search bringing them to the local temple where [[Clovis Langham]] has taken shelter after fleeing Greenbourne. In exchange for their help in freeing his town, Clovis introduces them to Derrick. He is ze Cleric. Derrick performs divinatory magic to reveal that the affliction is fiendish in nature and is coming from somewhere in the Forlorn Hills. He loans Vahn a Circlet of Pitiful Health, which will at the very least prevent him from dying from the condition by fixing his maximum health at a low, but above zero point. Clovis joins the party so that he can cast protective spells to prevent Vahn's condition from worsening.
 
-[[Session 9 - Robbery 08-19-2023]]
+[[Session 9 - Return to Secomber 08-19-2023]]
