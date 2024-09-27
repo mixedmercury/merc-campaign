@@ -1,0 +1,9 @@
+[[Session 6 - The Night Hag 07-29-2023]]
+
+The party heads to the warlock [[Rauthik]]'s lair. As they follow Unicorn Run they hear the sounds of a hobgoblin camp just off the path. Ver-Ik wild shapes into a cat to get a closer look. They see the camp is mostly empty aside from a few of particularly low intelligence left behind. The hobgoblins were in fact the ones behind the raid in Greenbourne, the ones in camp left behind to watch it. Ver-Ik is spotted "slinking" away back into the brush. The hobgoblins pursue, yelling out "SLINKY! Come back!", determined to make him their new pet. The party continues onward, sneaking past them as they are distracted by trying to find a cat.
+
+Later in the night, the party stops to camp. They start to hear faintly in the distance "SLINKY!". The hobgoblins, still in pursuit of the cat, have made their way to the camp. A third with them looks much more serious and exhausted of their hunt. He talks to the party, explaining that they are extremely stupid and were left behind during the raid for one too many instances of friendly fire. He does not seem to know his whole clan was killed in the raid. While he's talking, Rhys approaches one of the other hobgoblins, getting close enough by looking like a fuzzy animal. He pickpockets them, pulling out a rat named [[Mr. Bitey]] (He bites.)
+
+Ver-Ik wild shapes into a dog to distract them and send them in the other direction looking for "SLINKY TWO!". The older one thanks him for sending them back in the direction of their camp and wanders back into the woods following them. The party finishes their rest, continuing their journey to the Star Mounts in the pursuit of Rauthik.
+
+[[Session 8 - Plague Inc. 08-12-2023]]

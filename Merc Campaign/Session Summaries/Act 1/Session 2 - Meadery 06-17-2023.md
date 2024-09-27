@@ -18,4 +18,4 @@ In the basement there are countless barrels of mead along with two goblins. One 
 
 The party is now level 3.
 
-[[Session 3 - Festival 06-24-2023]]
+[[Session 3 - Robbery at the Festival 06-24-2023]]

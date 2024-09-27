@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Players/Vahn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69dd96f8bbde7d82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
+                "file": "Session Summaries/Act 1/Session 11 - Bed Beholders & Beyond 09-02-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
+                "file": "Session Summaries/Act 1/Session 11 - Bed Beholders & Beyond 09-02-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
+                "file": "Session Summaries/Act 1/Session 11 - Bed Beholders & Beyond 09-02-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md"
+                "file": "Session Summaries/Act 1/Session 11 - Bed Beholders & Beyond 09-02-2023.md"
               }
             }
           },
@@ -184,44 +171,48 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "69dd96f8bbde7d82",
+  "active": "d74074e4e45e18d9",
   "lastOpenFiles": [
-    "Items/Images/Pasted image 20240714072143.png",
-    "Items/Weapons/Branch of the Forest.md",
-    "Items/Weapons/Dagger of Venom.md",
-    "Items/Weapons/Longsword of Minor Flame Tongue.md",
-    "Items/Weapons/Mace of Terror.md",
-    "Items/Weapons/Oathbow.md",
-    "Items/Weapons/Tempest Pistol.md",
-    "Items/Weapons/To and Fro.md",
-    "Items/Weapons/Wand of Fireballs.md",
-    "Items/Weapons/Wand of Magic Missiles.md",
-    "Characters/Players/Walks Under Bright Moons.md",
-    "Items/Utility/Immovable Rod.md",
-    "Items/Consumables",
-    "Characters/Players/Vahn.md",
-    "Characters/Players/Yew.md",
-    "Characters/Players/Skoddit.md",
-    "Characters/Players/Terra.md",
-    "Characters/Players/Ebon No-Horns.md",
+    "Session Summaries/Act 1/Session 13 - Skullport 09-30-2023.md",
+    "Session Summaries/Act 1/Session 12 - The Underdark 09-09-2023.md",
+    "Session Summaries/Act 1/Session 11 - Bed Beholders & Beyond 09-02-2023.md",
+    "Session Summaries/Act 1/Session 10 - Waterdeep 08-26-2023.md",
     "Characters/Players/Rhys.md",
-    "Characters/Players/Ver-Ik.md",
-    "Items/Utility/Wand of Magic Detection.md",
-    "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
-    "Session Summaries/Act 2/Session 20 - The Heist 01-27-2024.md",
-    "Session Summaries/Act 2/Session 21 - Egg 02-10-2024.md",
-    "Session Summaries/Act 2/Session 17 - The Harpers 12-16-2023.md",
-    "Session Summaries/Act 1/Session 6 - The Night Hag 07-29-2023.md",
+    "Session Summaries/Act 1/Session 9 - Return to Secomber 08-19-2023.md",
+    "Characters/Enemies/Mountain Sound Mining Company/Mountain Sound Mining Company.md",
+    "Characters/Enemies/Mountain Sound Mining Company",
     "Session Summaries/Act 1/Session 7 - Mr. Bitey 08-05-2023.md",
+    "Characters/Allies/Mr. Bitey.md",
+    "Session Summaries/Act 1/Session 3 - Robbery at the Festival 06-24-2023.md",
+    "Session Summaries/Act 1/Session 4 - Scarecrows 07-15-2023.md",
+    "Session Summaries/Act 1/Session 8 - Plague Inc. 08-12-2023.md",
+    "Characters/Enemies/Rauthik.md",
+    "Session Summaries/Act 1/Session 6 - The Night Hag 07-29-2023.md",
+    "Session Summaries/Act 2/Session 31 - The Fang of Tiamat 08-24-2024.md",
+    "Session Summaries/Act 2/Session 30 - Imra's lair 08-23-2024.md",
+    "Untitled",
+    "Session Summaries/Act 2/Session 29 - Voyage 08-05-2024.md",
+    "Session Summaries/Act 1/Session 2 - Meadery 06-17-2023.md",
+    "Session Summaries/Act 1/Session 5 - Rurem and Knak 07-22-2023.md",
+    "Session Summaries/Act 1/Session 1 - Secomber 06-10-2023.md",
+    "Characters/Players/Vahn.md",
+    "Session Summaries/Act 2/Session 27 - Scalebeard's Treasure 07-01-2024.md",
+    "Session Summaries/Act 2/Session 28 - Ship Battle 07-21-2024.md",
+    "Items/Weapons/Typhoon Pistol.md",
+    "Items/Utility/Portable Fortress.md",
+    "Items/Utility/Glamoured Studded Leather Armor.md",
+    "Items/Images/Pasted image 20240714193140.png",
+    "Items/Images/Pasted image 20240714193100.png",
+    "Items/Images/Pasted image 20240714192304.png",
+    "Characters/Enemies/Cult of the Dragon",
+    "Items/Images/Pasted image 20240714072143.png",
+    "Items/Consumables",
     "Items/Images/Pasted image 20240714065214.png",
     "Items/Images/Pasted image 20240714065035.png",
     "Items/Images/Pasted image 20240714064929.png",
     "Items/Images/Pasted image 20240714064544.png",
     "Items/Images/Pasted image 20240714064441.png",
     "Items/Images/Pasted image 20240714063716.png",
-    "Items/Images/IMG_1291.jpg",
-    "Items/Images/Pasted image 20240714062032.png",
-    "Items/Images/Pasted image 20240714061919.png",
     "Items/Utility",
     "Items/Weapons",
     "Characters/Players",
