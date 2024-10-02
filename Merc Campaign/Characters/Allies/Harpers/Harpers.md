@@ -9,5 +9,3 @@ Known base in [[Silverymoon]], operations are spread across Faerun.
 	- [[Perkin]] - Alive - Halfling - The annoying one
 	- [[Unora]] - Alive -  Wood Elf, School of Transmutation Wizard. The Silverymoon branch of the Harpers' resident wizard. Definitely at least a little insane. Caused Ebon to give birth.
 
-
-

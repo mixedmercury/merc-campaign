@@ -1,6 +1,6 @@
 [[Session 11 - Bed Beholders & Beyond 09-02-2023]]
 
-The party arrives at the guard barracks where they meet with [[Quinn Redhelm]] as planned. She introduces them to her uncle, [[Lord Redhelm]]. Walks recognizes him as the head of a rival mining business located in Waterdeep. He explains that his son [[Darian Redhelm]] has gotten mixed up with the Zhentarim, which is why Quinn had taken a particular interest in them as of late.
+The party arrives at the guard barracks where they meet with [[Quinn Redhelm]] as planned. She introduces them to her uncle, [[merc-campaign/Merc Campaign/Characters/Allies/Lord Redhelm]]. Walks recognizes him as the head of a rival mining business located in Waterdeep. He explains that his son [[Darian Redhelm]] has gotten mixed up with the Zhentarim, which is why Quinn had taken a particular interest in them as of late.
 
 Though there is a safer route to Skullport that city officials can use, Quinn explains that they can't use it in case any Zhentarim spies see them heading down. She guides them to the entrance to the Underdark. On their path they encounter some Grell, swiftly defeating them after someone gets carried off by it. 
 
