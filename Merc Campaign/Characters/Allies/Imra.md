@@ -14,7 +14,7 @@ Imra also seems to have some sort of a relationship with the copper dragon [[Rur
 
 Upon hearing the party was going towards the Mere of Dead Men, she requested they stop at a nearby settlement to collect some things for her. While the party is doing this, she has been entrusted with the care of Ebon's egg, claiming to know about caring for kobolds. When arriving at her former residence, the party realizes that she is in fact a copper dragon. Her lair was the hiding place of one of the dragon masks before it was razed by [[Arathusar, The Fang]].
 
-She reveals when they return that Imra was their former mate, and they took her form so that she could live on after being killed in the Cult of the Dragon's raid. Their true form is Androm, an ancient copper dragon and the father of Rurem. While initially angry to find out that Ebon was in truth the kobold that raided her village, she trusted in Bahamut's judgement to let him live in his reborn form.
+She reveals when they return that Imra was their former mate, and they took her form so that she could live on after being killed in the Cult of the Dragon's raid. Their true form is Androm, an ancient copper dragon and the father of Rurem. During the raid, he threw Knak far away to the safety of Rurem's den before faking his death and has lived as Imra ever since. While initially angry to find out that Ebon was in truth the kobold that raided her village, she trusted in Bahamut's judgement to let him live in his reborn form.
 
 ---
 # Appearances

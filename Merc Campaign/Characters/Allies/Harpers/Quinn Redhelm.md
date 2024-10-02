@@ -1,8 +1,7 @@
 Status: Alive
 Race: Half-Elf
 Gender: Female
-Class: Ranger
-Sub-Class: Horizon Walker
+Class: Horizon Walker Ranger
 
 ---
 # Bio
