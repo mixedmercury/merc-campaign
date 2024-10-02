@@ -1,6 +1,6 @@
 [[Session 17 - The Harpers 12-16-2023]]
 
-While checking into the hotel, the receptionist asks Walks if they are there with their brother. Finding out one of their brothers is in town, they investigate. They find fairly quickly that the second oldest and most hyperactive of the family, [[Fast to Run]] is staying in the same hotel. With not much fight, Fast lets it slip that he's there for the auction to purchase a ship on behalf of the company. One that was supposed to have been sunk a long time ago. Walks explains about the key and asks if he can get them into the auction, which is private.
+While checking into the hotel, the receptionist asks Walks if they are there with their brother. Finding out one of their brothers is in town, they investigate. They find fairly quickly that the second oldest and most hyperactive of the family, [[Fast to Run (Fast)]] is staying in the same hotel. With not much fight, Fast lets it slip that he's there for the auction to purchase a ship on behalf of the company. One that was supposed to have been sunk a long time ago. Walks explains about the key and asks if he can get them into the auction, which is private.
 
 Fast agrees to help the party on the condition that Walks writes a letter to their father that makes their oldest brother Fort look bad and to confirm to him that they did not kill Lord Redhelm for the sake of the family business. Walks has no problem with this because they hate Fort the most and did not kill Lord Redhelm in the first place.
 
