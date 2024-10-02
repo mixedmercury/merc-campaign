@@ -1,3 +1,3 @@
 Status: Deceased
-Race: Kobold
+Race: Kobold (Blue)
 Gender: Male

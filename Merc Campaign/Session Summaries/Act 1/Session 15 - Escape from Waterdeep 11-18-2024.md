@@ -1,1 +1,15 @@
-The party is now level 5.
+[[Session 14 - Framed 10-21-2023]]
+
+The party is now level 5. Skoddit and Rhys were separated from the party and placed in cells separate from them. Everyone had all their gear taken, including spellcasting focuses and components and were placed into separate cells. Ver-Ik's cell however, had a chest inside. When he opened the chest, he saw a green kobold in mismatched armor curled up inside. He then proceeded to close and lock the chest. Vahn stares at the guard silently the whole time attempting to somewhat successfully intimidate him.
+
+Eventually the guards change, but instead of another guard [[Quinn Redhelm]] and a mysterious man appear together. The man places a zone of truth around everyone and advises everyone submit to it. Everyone including Quinn does except Vahn. She asks the party if they really killed her uncle. When they deny it, she reveals to them that she is a Harper that used her uncle's position to pose as a member of the Lord's Alliance. At this point, the chest shakes. Ver-Ik reluctantly opens it and the kobold from earlier pops out. He introduces himself as Ebon No-Horns and that he was imprisoned for taking "strange boxes that were abandoned on peoples' doorsteps". 
+
+Quinn tells them all that because of Walks' involvement and the Mountain Sound business present in town at the time, that they believe it was politically motivated for Walks' family's company. Tensions between the two kingdoms are now rising and they have called for the death of those involved. She agrees to free the party (and Ebon because he seemed harmless and she'd feel guilty if they killed him) and give them a route to escape the city before alarm is raised. She also tells them to make for Silverymoon and find the harper house there to get help from them.
+
+The party leaves the city quickly and makes for Rurem's cave, believing him to be the fastest route to the distant city. They find Rurem's cave empty, the chest inside unoccupied except for a string labelled "Do Not Pull". Walks rightly chooses to heed its warning. Knak and Rurem suddenly crash into the wall, yelling at their friends for help. A young red dragon descends after him, intent on killing him. The party fights it, Vahn creating an illusion of a slime encasing its head while the others wail on it. They lure it into the cave at the direction of Rurem. It knocks out Knak, leading Rurem to yell "PULL IT!". Walks pulls the string in the chest and with a sudden rush of black ooze and a loud BANG, the red dragon was dead, covered in tar and feathers.
+
+Knak wakes up and everyone realizes they look different. Rurem hides her, but they agree to trust the party. They see that she is actually a pink kobold like Ver-Ik and was using illusion magic to disguise herself. She used to be in Rurem's father's tribe before it was raided and she was thrown out of a window to Rurem's cave to keep her safe. He says that Androm, his father, isn't around anymore after that.
+
+Rurem flies the party to Silverymoon and tells them to go to "Sip the Scales". A friend of his runs the tavern there and will help them.
+
+[[Session 16 - Silverymoon 12-02-2023]]

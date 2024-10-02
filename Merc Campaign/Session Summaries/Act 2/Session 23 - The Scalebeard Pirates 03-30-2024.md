@@ -1,0 +1,13 @@
+[[Session 22 - Bounty Hunters 02-24-2024]]
+
+Arriving in [[Penrith]], the party finds the town's entrance is marked with a flag bearing a kobold-esque Jolly Roger. They are stopped by a pair of blue kobolds, claiming the town was their territory and that they would have to pay a high toll to get in. The toll came to a whole two silver... EACH! They then see that the kobolds are all over town. They seemed to cause their share of mischief, but the townsfolk didn't seem to mind them. It turns out they make for decent guards and charge a very small tax for their service (that the kobolds think is exceptionally large).
+
+They continue and eventually find the ship that used to be the Sleepy Willow. On the side, the name was painted over as "The Sapphire Serpent". As they approached a kobold on board took notice. He called out to them, calling himself Captain [[Scalebeard Drix]] of the [[Scalebeard Pirates]]. Seeing Walks' title, he invites them onboard. They ask about if there were any records of the ship's activities over the last few years. Drix states that they've been in charge of the ship since about the time it supposedly sunk. The previous Captain [[Scalebeard Salk]] kept some journals, however he kept them in his stash which no one knew the location of. He always said he "keeps his secrets between him and the sea". 
+
+He told the gang that the crew was meant to be at Death March with the ship for the Cult of the Dragon, but Salk kept "getting lost" on the way to the battle. Ver-Ik recognized a portrait of Drix as a kobold that was kinder to him than the others during his time with Veramith after Ver-Ik saved his life from his wounds in battle. Drix explains that ever since Salk was saved by some pink kobold, he had a greater appreciation for the lives of the kobolds and hated the way the dragons treated them as disposable. 
+
+Drix also explained that while he was Captain in name, he had no real authority yet. The kobolds could be the crew for the ship now that Walks owned it, however since the torch was never passed on the captain is technically the beast that killed Salk. He shows the party Salk's map so they can find his fishing hole where he perished. Everyone leaves, but Ebon asks to see the town's nursery. Drix takes him there and explains how kobolds raise their young as a community so that the young get the best from everyone. One of the babies clings to Ebon's tail as they talk, almost getting carried out with him as he left.
+
+Walks bought a gun from a kobold for a single gold to give to a craftsman to replicate two of so that they could have guns of their own so that they could duel their siblings if necessary.
+
+[[Session 24 - Gone Fishin' 04-06-2024]]

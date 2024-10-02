@@ -1,0 +1,15 @@
+[[Session 24 - Gone Fishin' 04-06-2024]]
+
+The gang sets sail with the [[Scalebeard Pirates]]. Walks takes the Captain's suite, making [[Scalebeard Drix]] take a meeting room that they converted for him. The rest of the party takes rooms on the lower decks. Ver-Ik meets [[Igni]] since he spends most of his time in the med bay away from the other kobolds.
+
+They arrive at Mintarn after a week of sailing, heading onto the island to search for clues about where [[Scalebeard Salk]]'s treasure could be. In the town, Walks notices their coin purse get snatched. A tiefling child runs off into the crowd with it as they pursue. Ebon gets left behind while stopping a fight they ran through the middle of (and getting punched in the face in the process). Eventually Walks catches the girl, who tried to say her brother was taken and she needed the money to buy him back from the people that took him.
+
+Walks agreed to help her, but that if it was a trap she was going to pay. The girl says her name is Sarhala and that her brother is Benwir. She describes an aasimar when asked what he looks like. She said she would lead them to the ship that the kidnappers inhabited. She said they had dark skin and hated being in the sun, leading the party to conclude they were drow. The party still had business in town, so they decided to leave Sarhala on the Sapphire Serpent.
+
+The party goes to the local tavern for more information on Salk. The barkeeper saw him occasionally, but only knew he spent a lot of time at "The Lower Decks". Somehow the implication was that it was a brothel, so yep that's what it ended up being. Me roleplaying my adventuring party going to a whore house. That's where we went with this. They find that he most often requested Shel, a large orc woman. She said he had a place to the west outside of town, but he never took her there because she wouldn't be able to fit in the entrance. She took a particular interest in Ebon, but the party pulled him out before that would go anywhere (Thank GOD).
+
+Vahn gets pulled into a doctor's office, being told that he was needed. Him and Ver-Ik see a large amount of sick patients, showing similar symptoms as the disease that almost killed [[Lucille Vinger]] months prior while she was kidnapped by the Cult of Tharzax. Seeing as this was Vahn's specialty, he decided to leave the party to pursue treating the new plague. He granted some of his equipment to Ver-Ik and bid farewell (taking Mags with him).
+
+The remaining party goes to retrieve Sarhala from the ship, interrupting their game of barrel bowling. She shows them a large gothic-style ship called the Chauntea. They're spotted by a vulpine woman, Terra, who was also examining the ship. She silently approaches and inquires with the party about what they're doing. She tells them she's been scouting the ship for a while and takes them somewhere private to share what she knows.
+
+[[Session 26 - The Vampirates 06-08-2024]]

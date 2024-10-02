@@ -1,0 +1,1 @@
+Alive - Halfling, New Zealand accent(?) - Harper in charge of Silverymoon operations. More gruff/serious.

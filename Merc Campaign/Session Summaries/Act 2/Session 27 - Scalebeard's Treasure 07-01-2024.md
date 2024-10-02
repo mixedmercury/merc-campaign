@@ -13,3 +13,5 @@ Reading the business ledger, the party sees that the massive amounts of gold acc
 Walks stops at a magic shop to buy a scroll of comprehend languages before returning to the ship. They toss Kraeg off the balcony he was still trapped on and read the journal. (I trust that Avery took notes about what was revealed since the other players are unaware.) When Salk comes in to ask about the journals, they say he can take any one except the one they held onto. Walks isolates in their room, getting hostile to anyone who comes near.
 
 The Scalebeard "Pirates" depart, but after a few hours of sailing realize they are being followed. Three ships approach them, one being the Vampirates' ship they were on previously. Realizing they are outnumbered, with a perfect cue from Ver-Ik Scalebeard shouts for the crew to "RAISE THE CANNON!". A large ballista-like device designed for launching kobolds raises from below the deck and the crew prepares for combat.
+
+[[Session 28 - Ship Battle 07-21-2024]]
