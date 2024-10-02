@@ -1,0 +1,17 @@
+[[Session 30 - Imra's lair 08-23-2024]]
+
+Inside the innermost chamber of the lair, the party spotted [[Tar-os, The Claw]] and [[Liraac]] along with other kobolds around the room. Terra snuck in again, picking off a few by tricking them to separate from each other. This does not go unnoticed for long however, and the battle begins.
+
+Tar-os spots Ebon and yells out "ARATHUSAR! I HAD MERCY WHEN I LEFT YOU TO DIE BEFORE. I TOLD YOU I'D KILL YOU IF I EVER SAW YOUR PITIFUL FACE AGAIN!" (or something along those lines). Soon, [[Nyrrinteg, the Fang]] dives into the room. He yells to Ebon, calling him Arathusar as well. He was furious, saying the only reason he was in a kobold's position is because he ran from the battle instead of dying in glory. The position was disgraced and demanded a replacement from [[Bymianth]]. Both Tar-os and Nyrrinteg were fully set on killing Ebon.
+
+Walks managed to distract Liraac for a bit while Ver-Ik and Hrolf provided support from the back. Terra picked off kobold troops in the time as well. Nyrrinteg would attack, then flee to hide in the cavernous ceiling. Ebon faced both Nyrrinteg and Tar-os head on. Eventually, Tar-os managed to down Ebon before immediately dying himself after. Believing that he killed the former paladin of Tiamat, he died with a smile on his face. 
+
+Terra rushed to try to save Ebon, throwing invisibility dust over his unconscious body to try to hide him from harm. Unfortunately, it was not enough. Nyrrinteg descended, breathing his poison over the entire area in an attempt to hit Ebon. His body rematerialized, now dead. Everyone became furious, pulling out all the stops against the dragon. He now had the full force of everyone together on him. Terra shot out his eye, Walks charged in swinging, and Ver-Ik and Hrolf quickly killed Liraac to get her out of their way.
+
+Ebon woke up. Everything was calm... peaceful... His mind was clearer than it had been in a long, long time. He looked around until he saw [[Fizban the Fabulous]] standing before him. Fizban guided him up stairs and through a glittering fortress. Eventually they reach a chamber with seven huge golden seats, and one greater platinum one. Fizban then transformed, revealing himself as the platinum dragon Bahamut. He asks Ebon to share his story, and his transformation from Arathusar. Bahamut saw that he was seeking redemption, but had no path to accomplish this. As a god of justice, but also a god of mercy, he offered Ebon a penance for his sins. He would become his paladin, dealing justice against evildoers in his name, but above all his mission would be to protect Ver-Ik. He asked why Ver-Ik was important. Bahamut answered, however said he must erase that memory from him for his protection. With the now-forgotten information, Ebon accepted.
+
+A bright white light shone from Ebon's body, suddenly from the glow a new body began to grow. Ebon was reborn, his scales a shining steel and his armor polished to match. The symbol of Bahamut branded his shield. It was one of the last things Nyrrinteg saw before being struck with the divine power of Bahamut, knocking his already battered body out.
+
+With the dragon defeated, Walks searched the statue of a male copper dragon knocked over in the back of the room. True to what she said, the mask was close to the heart. In a secret compartment in the chest of course. They stashed the mask in the pocket of their coat and told it to not let anyone take it except for themself and Ver-Ik.
+
+[[Session 32 - The Legacy of Arathusar 09-20-2024]]

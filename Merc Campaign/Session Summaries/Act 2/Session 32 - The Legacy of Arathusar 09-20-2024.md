@@ -1,0 +1,11 @@
+[[Session 31 - The Fang of Tiamat 08-24-2024]]
+
+The newly reborn Ebonthil waits for everyone except Ver-Ik to leave the chamber. He asks Ver-Ik to awaken [[Nyrrinteg, the Fang]] with his smelling salts. Under the effects of a zone of truth, Nyrrinteg explains that he took the position as the fang because he was driven from any territory he claimed by [[Bymianth]] as punishment for fleeing from Death March. He was deemed a coward for running from what he thought to be certain death. Ebon believed he could use this to make him turn against the cult, however it did not seem to be an option. Nyrrinteg remained silent when asked many questions about what he'd do if he had freedom, which spoke louder than any words. The dragon would never change his selfish nature. If he wasn't under the cult, he'd still be pursuing his evil desires on his own. Ebon asked Ver-Ik leave the room. Now alone, Ebon struck the dragon down for the last time.
+
+The party returned to the [[Scalebeard Pirates]] with Ebon's and Tar-os' bodies at Ebonthil's request. He wanted to make sure that both of them would be given proper burials. They had questions about Ebon's body (both the shiny new and old dead one) of course. Even Walks didn't trust the person who claimed to be their friend, especially when his dead body was right in front of them. Ebon described the little he remembered of his experience in the afterlife and showing the symbol of Bahamut to them. After a fair bit of discussion, Walks decides they can trust him enough for now. Igni manages to silently cast "Detect Evil and Good" on him during the talk, telling Ver-Ik that nothing came up on him.
+
+Imra sends Walks a message through the sending stone that his egg looks like it will hatch soon. Walks, furious at her, only sends back "okay". Walks also tells Ebon of the tabaxi culture of a second naming ceremony. They start to plan to give him, themself, and Ebon's expected child all a naming ceremony once they return.
+
+The party got together as many kobolds as they could. Some carried the piles of art and treasure from the hoard, while others all lifted the giant metallic statue from the chamber. After lots of hard effort, the treasure was all loaded onto the ship. With the treasure loaded up, they set off for Silverymoon.
+
+[[Session 33 - Big Deck Energy 09-27-2024]]

@@ -1,6 +1,6 @@
 [[Session 24 - Gone Fishin' 04-06-2024]]
 
-The gang sets sail with the [[Scalebeard Pirates]]. Walks takes the Captain's suite, making [[Scalebeard Drix]] take a meeting room that they converted for him. The rest of the party takes rooms on the lower decks. Ver-Ik meets [[Igni]] since he spends most of his time in the med bay away from the other kobolds.
+The gang sets sail with the [[Scalebeard Pirates]]. Walks takes the Captain's suite, making [[Scalebeard Drix]] take a meeting room that they converted for him. The rest of the party takes rooms on the lower decks. Ver-Ik meets [[Igni]] since he spends most of his time in the med bay away from the other kobolds. She tells him about her patron goddess Tamara, a wingless platinum dragon that was the goddess of life, light, mercy, and forgiveness. Some said she was the kindest and most benevolent of the draconic deities.
 
 They arrive at Mintarn after a week of sailing, heading onto the island to search for clues about where [[Scalebeard Salk]]'s treasure could be. In the town, Walks notices their coin purse get snatched. A tiefling child runs off into the crowd with it as they pursue. Ebon gets left behind while stopping a fight they ran through the middle of (and getting punched in the face in the process). Eventually Walks catches the girl, who tried to say her brother was taken and she needed the money to buy him back from the people that took him.
 

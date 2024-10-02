@@ -1,10 +1,15 @@
-Ver-Ik/Igni with Ebon in the medbay
+[[Session 28 - Ship Battle 07-21-2024]]
 
-Ver-Ik/Walks interaction
+On the ship of the [[Scalebeard Pirates]] Ver-Ik and [[Igni]] convince Ebon to allow them to look at him in the med bay and fix his eye. Igni sort of tricks him into taking anesthetic. The two then begin to mend his old injuries, stitching up his eye hole and filing off the rough breaks in his horns. His old wounds are finally cleaned for the first time. 
 
-Scalebeard talking with Ver-Ik about kobold generals
+[[Scalebeard Drix]] approached Ver-Ik after their talk with Walks to give some information he thought would be of interest that he remembered. He said that the old kobold general of Tiamat [[Grimkirg, The Eye]] from [[Veramith]]'s tribe was killed in the battle of Death March. When Ver-Ik asked about the other generals, he said that [[Tar-os, The Claw]] was still alive as far as he knew, [[Szerizar, The Wing]] fled from the battle, [[Zrorkung, The Tail]] kept killing until there was no one to kill, and [[Arathusar, The Fang]] was believed to be dead after the battle.
 
-Ebon "bonds" with Terra
+They talked about how big of a jerk Grimkirg was before. Ver-Ik thinks about how the only other he met was Tar-os, who abused him as well. He realized though, now that he had the knowledge that there's more pink kobolds that exist, that Tar-os' tribe likely had one as well. He reveals that he is pink to Drix. At a similar time, Igni pieces it together from Scalebeard mentioning his name was Ver, while he told Igni his name was Ik. She tells him he should be open with the crew because he's their inspiration. He says he shouldn't because he'd be a disappointment.
 
-Ebon Igni
+The ship arrives back at [[Penrith]] and the crew rushes off to tell all the others about the incredible battle they had won. Ebon goes to find a jewelry store and asks the shopkeeper for "Two rings for a bond". They see that he is a serious customer and not just a kobold looking at shinies, so they shoo off the tiny window shopper that was blocking the stall. After some clarification, they realize he means rings for a spell component and not wedding rings. Ebon then takes the rings to Terra and tries to slip one on their finger. Confused, Terra asks what it is for. The sweet simple boy replies "to form a bond". There was some more clarification needed there.
 
+The party then heads to The Hook and Claw, the tavern popular with the kobolds, hoping to get Ver-Ik to tell the kobolds his true nature before leaving. They test it on a very drunk kobold who says if they can really show him a pink kobold he'll "eat his shoe". He was true to his word. They announced it to more of them. The reveal was met with a mix of praise and indifference, but it was overall positive.
+
+Ver-Ik then spots a strange old man staring at him from across the room. He approaches him and sees he has six yellow canaries fluttering around and nuzzling close to him. The man introduces himself as [[Fizban the Fabulous]]. Ebon absolutely does not trust him, especially after hinting to know his true nature. Fizban says some mysterious things that intrigue Ver-Ik, but Ebon acts protective of him until Fizban leaves. 
+
+[[Session 30 - Imra's lair 08-23-2024]]

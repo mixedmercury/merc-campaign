@@ -1,5 +1,5 @@
 Status: Alive
-Race: Dragon (Green)
+Race: Dragon (Ancient Green)
 Gender: Male 
 
 ---
