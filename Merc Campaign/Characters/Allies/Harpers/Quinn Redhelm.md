@@ -9,7 +9,7 @@ Sub-Class: Horizon Walker
 
 A member of the [[Harpers]] first met in Greenbourne. She introduced herself as a guard for the Lord's Alliance. She was first investigating the Feux Volant meadery for its suspected dealings with the Zhentarim.
 
-She wanders wherever her leads take her, tracking the Zhents. Though her uncle [[Lord Redhelm]] has passed she still is set on her mission of retrieving her cousin [[Darian Redhelm]]. 
+She wanders wherever her leads take her, tracking the Zhents. Though her uncle [[Lord Redhelm 1]] has passed she still is set on her mission of retrieving her cousin [[Darian Redhelm]]. 
 
 ---
 # Appearances

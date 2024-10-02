@@ -6,7 +6,7 @@ Southbank was originally an area for caravan business and warehouses, but it exp
 
 The Moonbridge is a magical, invisible bridge in Silverymoon, the most famous landmark in that city. It was fourteen feet wide and two feet thick and rose 60 feet above the water at its highest point.
 
-There are many taverns, inns, and shops spread across the city. The most notable of which to the party being [[Sip the Scales]], a gambling house run by the ever spirited [[Imra]].
+There are many taverns, inns, and shops spread across the city. The most notable of which to the party being [[Sip the Scales]], a gambling house run by the ever spirited [[Imra (Androm)]].
 
 The Church of Cyric has been outlawed in Silverymoon. 
 
