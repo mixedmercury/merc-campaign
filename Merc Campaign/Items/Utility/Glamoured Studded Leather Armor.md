@@ -4,4 +4,4 @@ While wearing this armor, you gain a +1 bonus to AC. You can also use a bonus ac
 
 Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
 
-![[Pasted image 20240714192304.png]]
+![[Glamoured Studded Leather Armor.png]]

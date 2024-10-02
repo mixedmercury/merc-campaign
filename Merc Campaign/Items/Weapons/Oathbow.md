@@ -13,4 +13,4 @@ While your sworn enemy lives, you have disadvantage on attack rolls with all oth
 
 Proficiency with a longbow allows you to add your proficiency bonus to the attack roll for any attack you make with it.
 
-![[Pasted image 20240714064544.png]]
+![[Oathbow.png]]

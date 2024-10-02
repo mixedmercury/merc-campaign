@@ -12,4 +12,4 @@ The hammer of this flintlock pistol sparks and crackles with electricity. When y
 While wielding it, you can use an action to expend charges to cast the following spells: gust of wind (1 charge) or  lightning bolt (2 charges). The spell save DC for these spells is 16. The pistol regains 2d4 expended charges each day at dawn.
 
 ![[Tempest Pistol.png]]![[Firearms Properties.png]]
-![[IMG_1291.jpg]]
+![[Tempest Pistol Image.jpg]]

@@ -6,4 +6,4 @@ The wand regains 1d4 expended charges daily at dawn. If you expend the wand's la
 
 I certainly hope I do not regret allowing Ver-Ik to gain possession of this.
 
-![[Pasted image 20240714062032.png]]
+![[Wand of Fireballs.png]]

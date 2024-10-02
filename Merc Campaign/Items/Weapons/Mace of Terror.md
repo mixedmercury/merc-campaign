@@ -7,4 +7,4 @@ This magic weapon has 3 charges. While holding it, you can use an action and exp
 
 The mace regains 1d3 expended charges daily at dawn.
 
-![[Pasted image 20240714064929.png]]
+![[Mace of Terror.png]]
